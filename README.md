@@ -1,4 +1,5 @@
 Descrição da Atividade: Criação de Mapa Mental sobre Direção de Fotografia e Enquadramento
+
 Esta atividade tem como objetivo consolidar o conhecimento sobre Direção de Fotografia e Enquadramento através da criação de um mapa mental detalhado. Ao organizar visualmente os conceitos-chave, o aluno poderá fortalecer sua compreensão dos elementos que compõem uma direção de fotografia eficaz e como o enquadramento contribui para a narrativa visual.
 
 Objetivo Principal:
